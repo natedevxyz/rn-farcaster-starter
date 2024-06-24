@@ -1,10 +1,13 @@
 import { Stack } from "expo-router";
 import "../global.css";
+import { AppProvider } from "@/context/AppContext";
 
 export default function RootLayout() {
   return (
-    <Stack>
-      <Stack.Screen name="index" />
-    </Stack>
+    <AppProvider>
+      <Stack>
+        <Stack.Screen name="index" />
+      </Stack>
+    </AppProvider>
   );
 }
