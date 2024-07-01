@@ -18,10 +18,10 @@ And that's it, you are a React Native developer now. Everything you know about R
 
 ## Contents
 
-[Expo setup](#expo-setup)
-[Neynar setup](#neynar-setup)
-[Supabase setup](#supabase-setup)
-[How to run](#how-to-run)
+[Expo setup](#expo-setup) .
+[Neynar setup](#neynar-setup) .
+[Supabase setup](#supabase-setup) .
+[How to run](#how-to-run) .
 
 ## Expo Setup
 
